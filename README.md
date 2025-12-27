@@ -85,7 +85,7 @@ Example URL:http://localhost:8080/greeting?name=Vistula
 
 ## Author
 
-Student: Erdem  
+Student: Ayse Erdem  
 Task: Task 1 – Spring Boot Project Setup & Basic Controller
 
 
